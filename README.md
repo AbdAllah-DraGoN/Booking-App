@@ -5,7 +5,7 @@
 1. Clone the project from GitHub:
 
 ```bash
-git clone https://github.com/username/repo-name.git
+git clone https://github.com/AbdAllah-DraGoN/Booking-App.git
 cd repo-name
 ```
 
