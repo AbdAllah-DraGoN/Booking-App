@@ -6,7 +6,7 @@
 
 ```bash
 git clone https://github.com/AbdAllah-DraGoN/Booking-App.git
-cd repo-name
+cd Booking-App
 ```
 
 2. Install the dependencies:
